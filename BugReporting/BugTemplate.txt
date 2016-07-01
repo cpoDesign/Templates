@@ -1,0 +1,25 @@
+Login url:                  https://
+Url with error:             https://
+
+User name:									userName/notRequired/unkown				
+User password:							userName/notRequired/unkown				
+Application:                Application name
+Customer:                   Customer id/name
+
+
+Reproduce steps:
+  1. login as user above
+  2. enter provided credentials
+
+Comments:
+    enter comments to this bug
+    
+    
+=============================================================================
+Print screen(s): 
+      insert print screen if you have any
+=============================================================================
+Exception:   
+    insert exception below if exists
+End of Exceptions
+=============================================================================
