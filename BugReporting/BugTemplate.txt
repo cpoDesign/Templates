@@ -1,25 +1,31 @@
-Login url:                  https://
-Url with error:             https://
-
-User name:									userName/notRequired/unkown				
-User password:							userName/notRequired/unkown				
+environment:
 Application:                Application name
-Customer:                   Customer id/name
+User name:									userName/notRequired/unkown				
+User password:							userName/notRequired/unkown
+url:                  https://
+
+Step to relicate:
 
 
-Reproduce steps:
-  1. login as user above
-  2. enter provided credentials
+Expected outcome:
 
-Comments:
-    enter comments to this bug
-    
-    
+Actual outcome:
+
 =============================================================================
 Print screen(s): 
       insert print screen if you have any
-=============================================================================
+
+
+=============== developer to complete =======================================
+For Developer:  
+Root course:    describe 
+  
+Resolution:   
+  sql, code fix ( one sentence summary )
+
+
+====================Support information===================================
 Exception:   
-    insert exception below if exists
+    insert exception below if exists (elmah)
 End of Exceptions
 =============================================================================
