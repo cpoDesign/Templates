@@ -1,11 +1,11 @@
-environment:
-Application:                Application name
-User name:									userName/notRequired/unkown				
-User password:							userName/notRequired/unkown
-url:                  https://
+Environment:            Live/Dev
+Application:            Application name
+User name:			userName/notRequired/unkown				
+User password:		userName/notRequired/unkown
+url:                    https://
 
 Step to relicate:
-
+   1.
 
 Expected outcome:
 
